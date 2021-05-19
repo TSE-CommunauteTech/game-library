@@ -20,7 +20,7 @@ De ces lois découle un processus cyclique constitué de 5 étapes et réitérab
 4) vérifier que le test passe, ainsi que les autres tests existants
 5) remanier le code, c'est-à-dire l'améliorer sans en altérer le comportement
 
-![Cycle TDD](https://fr.wikipedia.org/wiki/Test_driven_development#/media/Fichier:Cycle-global-tdd.png)
+![Cycle TDD](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Cycle-global-tdd.png/220px-Cycle-global-tdd.png)
 
 ### Principaux intérêts
 - permet d'éviter des modifications de code sans lien avec le but recherché, car on se focalise étape par étape sur la satisfaction d'un besoin, en conservant le cap du problème d'ensemble à résoudre
